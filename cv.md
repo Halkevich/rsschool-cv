@@ -26,5 +26,5 @@ const func = (num) => {
 3. Greed and Flex modele video courses on YouTube
 
 ## language:
-### English level: A2
+### English level: B1
 
